@@ -15,8 +15,8 @@ PyTorch, Transformers, Tokenizer, Fine-Tuning, Pretraining, Embedding 등 AI 연
 - [x] GPT 계열 모델 직접 구현 및 학습 (예: smolGPT, nanoGPT 스타일)
 - [x] Tokenizer 실습 (BPE, tiktoken, AutoTokenizer)
 - [x] Transformer 구조 직접 구현 (Attention, FeedForward 등)
-- [ ] Fine-tuning / Prompt Tuning 실험
-- [ ] 학습 loss 시각화 및 generation 결과 평가
+- [x] Fine-tuning / Prompt Tuning 실험
+- [x] 학습 loss 시각화 및 generation 결과 평가
 
 ---
 
